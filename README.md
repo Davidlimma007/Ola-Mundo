@@ -1,2 +1,3 @@
-# Ola Mundo
-primeiro repositório
+# Olá, Comunidade!
+primeiro repositório para testes com Git e GitHub
+
